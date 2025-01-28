@@ -1,6 +1,3 @@
-
----
-
 # Generative Adversarial Network (GAN) for Attack Simulation  
 
 This project implements a Generative Adversarial Network (GAN) for simulating attack data using the DNN-EdgeIIoT dataset and evaluates the impact of synthetic data on classification performance.
