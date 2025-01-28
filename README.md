@@ -1,4 +1,3 @@
-Here’s an updated README to include the evaluation process involving synthetic and original data:
 
 ---
 
